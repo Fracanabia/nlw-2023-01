@@ -55,6 +55,10 @@ npx prisma generate
 ```
 
 ```bash
+npx prisma db seed
+```
+
+```bash
 npm i zod
 ```
 
